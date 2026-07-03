@@ -1,10 +1,10 @@
 # Demo
 
-- https://shazam.marcuschiu.com
+- https://git.marcuschiu.com/shazaam
 
 # Article
 
-- https://www.marcuschiu.com/tinkering/2025-08-18/
+- https://git.marcuschiu.com/tech/?slug=2025-08-18--I%27ve-Recreated-Shazaam
 
 # Other
 
